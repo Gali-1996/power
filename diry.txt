@@ -1,2 +1,7 @@
 dfsdff
 todya is good day
+<<<<<<< HEAD
+=======
+dsds
+
+>>>>>>> master
